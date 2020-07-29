@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>Group.png</file>
+    <file>icons8-trash-can-32.png</file>
+    <file>icons8-add-file-32.png</file>
+    <file>icons8-file-invoice-32.png</file>
+    <file>Logo.png</file>
+  </qresource>
+</RCC>
